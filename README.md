@@ -1,3 +1,2 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=vXtreniusX)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vXtreniusX)](https://github.com/anuraghazra/github-readme-stats)
+# Welcome to my profile!
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vXtreniusX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
